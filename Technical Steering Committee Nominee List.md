@@ -3,7 +3,7 @@
 | Full Name | Affiliation | Statement |
 
 
-| Astha Puri |
+1. | **Astha Puri** |
 Senior Data Scientist at CVS Health.
 Founding board member of Women Who Do Data |
 Astha is a Senior Data Scientist at CVS Health, where she designs the recommendation engine for digital platforms to help customers find the right products and patients find the right health services and support. She also leads AI initiatives including generative AI and oversees the entire search portfolio across the app and web.
